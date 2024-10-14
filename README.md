@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">A passionate fullstack developer specializing in mobile and web app development with high-end, polished interfaces. I Co-founded CalliumCode, where I craft quality digital solutions for clients. I love tackling complex problems and continuously improving my skills across the full stack. Still hustling and always learning—there's a long way to go, but I’m here for the ride.</p>
+<p align="left">Hi there! I’m Mohammed Shahbaz, a passionate full-stack developer who loves building beautiful and functional mobile and web applications. As a co-founder of CalliumCode, I enjoy creating top-notch digital solutions that help our clients succeed. I thrive on tackling complex challenges and am always looking for new ways to enhance my skills across the full stack. I’m still hustling, always learning, and excited for the journey ahead—there's a long way to go, but I’m here for the ride!</p>
 
 ###
 
