@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🔭 Currently working on a [GitHub Pages](https://pages.github.com/) <br>📚 Currently learning AWS and other Cloud Platforms<br>👨‍💻 My project showcase - www.calliumcode.com<br>🎲 Fun fact: ...I am still lost</p>
+- ✨ Creating bugs since 2022
+- 🔭 Currently working on a [GitHub Pages](https://pages.github.com/)
+- 📚 Currently learning AWS and other Cloud Platforms
+- 👨‍💻 My project showcase - www.calliumcode.com
+- 🎲 Fun fact: ...I am still lost
 
 ###
 
