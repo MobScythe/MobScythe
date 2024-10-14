@@ -11,15 +11,16 @@
 ###
 
 ✨ Creating bugs **since 2022**
-###
+##
 🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)
-###
+##
 📚 Currently learning **AWS and other Cloud Platforms**
-###
+##
 👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)
-###
+##
 🎲 Fun fact: ... I am still lost
 
+###
 ###
 
 <h2 align="left">I code with</h2>
