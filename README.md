@@ -1,14 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
-<p align="left">Hi there! I’m Mohammed Shahbaz, a passionate full-stack developer who loves building beautiful and functional mobile and web applications. As a co-founder of CalliumCode, I enjoy creating top-notch digital solutions that help our clients succeed. I thrive on tackling complex challenges and am always looking for new ways to enhance my skills across the full stack. I’m still hustling, always learning, and excited for the journey ahead—there's a long way to go, but I’m here for the ride!</p>
+**A full-stack developer by day and sleep-deprived by night** <br>
+Co-founder of CalliumCode, crafting digital solutions that empower.<br>
+Still hustling, always learning—there's a long way to go, and I'm here for the ride!<br>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
 
 ✨ Creating bugs **since 2022**<br>
 🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)<br>
