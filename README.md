@@ -14,11 +14,11 @@
 🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)<br>
 📚 Currently learning **AWS and other Cloud Platforms**<br>
 👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)<br>
-🎲 Fun fact: ... I am still lost<br>
+🎲 Fun fact: ... I am still lost<br><br>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
