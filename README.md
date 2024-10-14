@@ -10,17 +10,12 @@
 
 ###
 
-✨ Creating bugs **since 2022**
-##
-🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)
-##
-📚 Currently learning **AWS and other Cloud Platforms**
-##
-👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)
-##
-🎲 Fun fact: ... I am still lost
+✨ Creating bugs **since 2022**<br>
+🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)<br>
+📚 Currently learning **AWS and other Cloud Platforms**<br>
+👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)<br>
+🎲 Fun fact: ... I am still lost<br>
 
-###
 ###
 
 <h2 align="left">I code with</h2>
