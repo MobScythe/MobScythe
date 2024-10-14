@@ -11,7 +11,7 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)<br>
 📚 Currently learning **AWS and other Cloud Platforms**<br>
 👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)<br>
-🎲 Fun fact: ... I am still lost<br><br>
+🎲 Fun fact... I am still lost<br><br>
 
 ###
 
