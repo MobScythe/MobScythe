@@ -10,7 +10,7 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 ✨ Creating bugs **since 2022**<br>
 🔭 Currently working on a [Custom Store Template for Medusa](https://github.com/MobScythe/medusa-custom-storefront)<br>
 📚 Currently learning **AWS and other Cloud Platforms**<br>
-👨‍💻 My project showcase - [CalliumCode](https://calliumcode.com/)<br>
+👨‍💻 Check out my work at [CalliumCode](https://calliumcode.com/)<br>
 🎲 Fun fact... I am still lost<br><br>
 
 ###
