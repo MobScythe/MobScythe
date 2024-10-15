@@ -21,8 +21,8 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 
 | | |
 | --- | --- |
-| Front End | `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart` |
-| Back End | `Node.js` `Express.js` `Python` |
-| Databases | `MongoDB` `PostgreSQL` `Firebase` |
+| Frontend Shots | `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart` |
+| Backend Brew | `Node.js` `Express.js` `Python` |
+| Data Refill | `MongoDB` `PostgreSQL` `Firebase` |
 
 ###
