@@ -25,20 +25,4 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 | Back End | `Node.js` `Express.js` `Python` |
 | Databases | `MongoDB` `PostgreSQL` `Firebase` |
 
-<h4 align="left">UI Wizardry</h4>
-
-`Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart`
-
-###
-
-<h4 align="left">Server Sorcery</h4>
-
-`Node.js` `Express.js` `Python`
-
-###
-
-<h4 align="left">Data Kingdoms</h4>
-
-`MongoDB` `PostgreSQL` `Firebase`
-
 ###
