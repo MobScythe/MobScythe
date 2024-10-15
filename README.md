@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋</h2>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
@@ -22,6 +22,8 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 <h4 align="left">UI Wizardry</h4>
 
 ###
+
+`Nextjs` `Reactjs` `javascript` `typescript` `Flutter` `Dart`
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
