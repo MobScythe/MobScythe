@@ -19,6 +19,8 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 
 ###
 
+| Command | Description |
+| --- | --- |
 | Front End | `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart` |
 | Back End | `Node.js` `Express.js` `Python` |
 | Databases | `MongoDB` `PostgreSQL` `Firebase` |
