@@ -19,7 +19,7 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 
 ###
 
-| Category | Technologies |
+| | |
 | --- | --- |
 | Front End | `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart` |
 | Back End | `Node.js` `Express.js` `Python` |
