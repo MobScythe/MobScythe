@@ -19,6 +19,12 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 
 ###
 
+| UI Wizardry | Server Sorcery | Data Kingdoms |
+| --- | --- | --- |
+| `Next.js` | `Node.js` | `MongoDB` |
+| `React.js` | `Express.js` | `PostgreSQL` |
+| `JavaScript` | `Python` | `Firebase` |
+
 <h4 align="left">UI Wizardry</h4>
 
 `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart`
