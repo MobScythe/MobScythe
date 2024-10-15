@@ -18,14 +18,6 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 <h2 align="left">My Espresso Stack</h2>
 
 ###
-
-<style>
-    .headerless th {
-        display: none;
-    }
-</style>
-
-<div class="headerless">
     
 | | |
 | --- | --- |
@@ -33,6 +25,5 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 | Backend Brew | `Node.js` `Express.js` `Python` |
 | Data Refill | `MongoDB` `PostgreSQL` `Firebase` |
 
-</div>
 
 ###
