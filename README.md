@@ -21,23 +21,18 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 
 <h4 align="left">UI Wizardry</h4>
 
-`Nextjs` `Reactjs` `javascript` `typescript` `Flutter` `Dart`
-
-###
-
+`Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart`
 
 ###
 
 <h4 align="left">Server Sorcery</h4>
 
-`Nodejs` `Expressjs` `Python`
-
+`Node.js` `Express.js` `Python`
 
 ###
 
 <h4 align="left">Data Kingdoms</h4>
 
-`MongoDB` `PostgresSQL` `Firebase`
-
+`MongoDB` `PostgreSQL` `Firebase`
 
 ###
