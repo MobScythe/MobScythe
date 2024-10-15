@@ -11,7 +11,7 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 🔭 Currently working on an [Opensource Medusa Store Template](https://github.com/MobScythe/medusa-custom-storefront)<br>
 📚 Exploring **AWS and other Cloud Platforms**<br>
 👨‍💻 Check out my work at [CalliumCode](https://calliumcode.com/)<br>
-☕ Coffee good<br><br>
+☕ In coffee we trust<br><br>
 
 ###
 
