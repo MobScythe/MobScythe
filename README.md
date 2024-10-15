@@ -20,9 +20,6 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 ###
 
 <h4 align="left">UI Wizardry</h4>
-
-###
-
 `Nextjs` `Reactjs` `javascript` `typescript` `Flutter` `Dart`
 
 <div align="left">
