@@ -21,11 +21,11 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
     
 | | |
 | --- | --- |
-| ☕ Frontend Roast | `Next.js` `React.js` `Fusion.js` `JavaScript` `TypeScript` `Tailwind` `React Native` `Flutter` `Dart` |
-| 🍵 Backend Brew | `Node.js` `Express.js` `Prisma` |
-| 🍪 Data Refill | `MongoDB` `PostgreSQL` `Firebase` `Supabase` |
-| 🔧 Dev Tools Shot | `Redux Toolkit` `Zustand` `TanStack Query` `Git` `Docker` `Vercel` `Netlify` `Jest` |
-| 🎨 Creative Blend | `Figma` `Adobe Creative Suite` `Framer Motion` `GSAP` `UI/UX Design` |
+| Frontend Roast | `Next.js` `React.js` `Fusion.js` `JavaScript` `TypeScript` `Tailwind` `React Native` `Flutter` `Dart` |
+| Backend Brew | `Node.js` `Express.js` `Prisma` |
+| Data Refill | `MongoDB` `PostgreSQL` `Firebase` `Supabase` |
+| Dev Tools Shot | `Redux Toolkit` `Zustand` `TanStack Query` `Git` `Docker` `Vercel` `Netlify` `Jest` |
+| Creative Blend | `Figma` `Adobe Creative Suite` `Framer Motion` `GSAP` `UI/UX Design` |
 
 
 ###
