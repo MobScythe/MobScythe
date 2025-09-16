@@ -10,7 +10,7 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
 ✨ Creating bugs **since 2022**<br>
 🔭 Currently working on an [Opensource Medusa Store Template](https://github.com/MobScythe/medusa-custom-storefront)<br>
 📚 Exploring **AWS and other Cloud Platforms**<br>
-👨‍💻 Check out my work at [CalliumCode](https://calliumcode.com/)<br>
+👨‍💻 Check out my work at [My Portfolio](https://mohammedsh.com/)<br>
 ☕ In coffee we trust<br><br>
 
 ###
@@ -21,9 +21,11 @@ Still hustling, always learning—there's a long way to go, and I'm here for the
     
 | | |
 | --- | --- |
-| Frontend Roast | `Next.js` `React.js` `JavaScript` `TypeScript` `Flutter` `Dart` |
-| Backend Brew | `Node.js` `Express.js` `Python` |
-| Data Refill | `MongoDB` `PostgreSQL` `Firebase` |
+| ☕ Frontend Roast | `Next.js` `React.js` `Fusion.js` `JavaScript` `TypeScript` `Tailwind` `React Native` `Flutter` `Dart` |
+| 🍵 Backend Brew | `Node.js` `Express.js` `Prisma` |
+| 🍪 Data Refill | `MongoDB` `PostgreSQL` `Firebase` `Supabase` |
+| 🔧 Dev Tools Shot | `Redux Toolkit` `Zustand` `TanStack Query` `Git` `Docker` `Vercel` `Netlify` `Jest` |
+| 🎨 Creative Blend | `Figma` `Adobe Creative Suite` `Framer Motion` `GSAP` `UI/UX Design` |
 
 
 ###
